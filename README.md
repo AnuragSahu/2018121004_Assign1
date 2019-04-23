@@ -51,7 +51,7 @@ Additional Features:-  <br>
 
 
 Some of the screen shots
- ![Alt text](/Assignment1/MarioStart.png?raw=true "Starting of Game")
- ![Alt text](/Assignment1/MarioGamePlay.png?raw=true "Progressing in game")
- ![Alt text](/Assignment1/MarioBoss.png?raw=true "The Ultimate Enemy")
- ![Alt text](/Assignment1/MarioWinner.png?raw=true "If you win")
+ ![Alt text](/MarioStart.png?raw=true "Starting of Game")
+ ![Alt text](/MarioGamePlay.png?raw=true "Progressing in game")
+ ![Alt text](/MarioBoss.png?raw=true "The Ultimate Enemy")
+ ![Alt text](/MarioWinner.png?raw=true "If you win")
